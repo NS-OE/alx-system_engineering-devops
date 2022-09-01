@@ -1,0 +1,1 @@
+The directory reviews possible shell permission scenarios and their corresponding commands
