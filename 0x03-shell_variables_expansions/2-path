@@ -1,2 +1,2 @@
-#!/bin/bas
-mkdir -m 775 action
+#!/bin/bash
+export PATH=$PATH:/action
