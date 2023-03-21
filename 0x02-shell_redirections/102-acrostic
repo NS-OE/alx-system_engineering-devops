@@ -1,2 +1,2 @@
 #!/bin/bash
-cat Acro | colrm 2 | xargs | tr -d " "
+colrm 2 | xargs | tr -d " "
